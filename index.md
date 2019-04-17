@@ -24,9 +24,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
-
-
+ 
+ 
+ 
 ### Credit
 
 I am not the owner or claim to be of most of what I post here. All of the credit goes to the original owner.
