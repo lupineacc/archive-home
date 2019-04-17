@@ -4,9 +4,6 @@ I will occasionally upload Code or Software I use for personal projects.
 
 My Projects usually consist of "Cyber Security" or "Penatration Testing".
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
